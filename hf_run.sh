@@ -1,4 +1,4 @@
-# 科学上网，设置代理
+# 科学上网，设置代理.
 source /pfs/yangyuanming/set_proxy.sh
 
 # #下载模型：openai/clip-vit-large-patch14
